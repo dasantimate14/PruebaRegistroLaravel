@@ -6,6 +6,23 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## Documentación del Proyecto 
+
+Este repositorio contiene el desarrollo de un proyecto en Laravel con Login como parte de las prácticas de laboratorio orientadas a la instalación, configuración y despliegue de aplicaciones web modernas.
+
+Durante el laboratorio se trabajó en:
+
+Configuración del entorno de desarrollo utilizando XAMPP, Composer, Node.js y Visual Studio Code.
+
+Gestión de dependencias con composer y npm, asegurando la correcta integración del backend y frontend.
+
+Conexión a la base de datos mediante la configuración del archivo .env y la ejecución de migraciones con php artisan migrate.
+
+Ejecución del servidor local con php artisan serve y compilación de recursos frontend con npm run dev.
+
+Resolución de errores comunes, como problemas de permisos en PowerShell o credenciales incorrectas en la base de datos.
+
+Este documento sirve como referencia para estudiantes y desarrolladores que deseen comprender los pasos básicos para iniciar un proyecto Laravel desde cero, así como la importancia de un entorno correctamente configurado para evitar fallos durante el desarrollo.
 
 ## About Laravel
 

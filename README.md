@@ -27,7 +27,7 @@
 7. [Resultados y artefactos (capturas / backup)](#resultados-y-artefactos-capturas--backup)
 8. [Dificultades encontradas y soluciones aplicadas](#dificultades-encontradas-y-soluciones-aplicadas)
 9. [Referencias y recursos consultados](#referencias-y-recursos-consultados)
-10. [Footer — Información del estudiante](#footer--información-del-estudiante)
+10. [Footer — Información del estudiante](#ffooter--información-del-desarrollador--estudiante)
 
 ---
 

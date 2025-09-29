@@ -224,9 +224,6 @@ Incluye en el repositorio las siguientes rutas/archivos (se muestran como ejempl
 </p>
 * `database_backups/pruebaregistrolaravel_backup.sql` — **Backup** de la base de datos creada.
 * `README.md` — este archivo.
-
-> **Instrucción:** Toma una captura de pantalla del formulario de login y súbela a `/screenshots/login_home.png` en el repo.
-
 ---
 
 ## Dificultades encontradas y soluciones aplicadas

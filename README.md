@@ -39,7 +39,7 @@ Este repositorio contiene la implementación del módulo de **autenticación (lo
 
 ## Requisitos previos
 
-Antes de ejecutar el proyecto asegúrate de tener instalado/configurado:
+Antes de ejecutar el proyecto asegúrate de tener instalado/configurado:<br>
 [![PHP](https://img.shields.io/badge/PHP-8.0+-8892BF?logo=php)()
 [![Laravel](https://img.shields.io/badge/Laravel-8+-FF2D20?logo=laravel)]()
 [![Composer](https://img.shields.io/badge/Composer-2+-000000?logo=composer)]()

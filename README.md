@@ -258,9 +258,9 @@ php artisan migrate
 
 ## Referencias y recursos consultados
 
-1. Documentación del instructivo **"Customizar el Repositorio del Login de Laravel"**, instrucciones y requisitos del laboratorio. 
+1. J. Holcombe, “How to install Laravel on Windows, MacOS, and Linux,” Kinsta®, Nov. 11, 2024. https://kinsta.com/knowledgebase/install-laravel/
 2. **Guía paso a paso: Cómo crear un Login y Registro en Laravel** (guía de laboratorio utilizada para los comandos y explicación de Vite/composer/npm). 
-3. Documentación oficial de **Laravel** — guías y referencia sobre instalación, migraciones y autenticación. (Ej.: [https://laravel.com/docs](https://laravel.com/docs)).
+3. Documentación oficial de **Laravel** — guías y referencia sobre instalación, migraciones y autenticación. ([https://laravel.com/docs](https://laravel.com/docs)).
 
 > **Nota:** La guía del laboratorio (puntos 1–7) se siguió y adaptó para este README; revisa los archivos PDF insertados en el repositorio para ver capturas y notas del instructor.  
 

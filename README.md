@@ -262,8 +262,6 @@ php artisan migrate
 2. **Guía paso a paso: Cómo crear un Login y Registro en Laravel** (guía de laboratorio utilizada para los comandos y explicación de Vite/composer/npm). 
 3. Documentación oficial de **Laravel** — guías y referencia sobre instalación, migraciones y autenticación. ([https://laravel.com/docs](https://laravel.com/docs)).
 
-> **Nota:** La guía del laboratorio (puntos 1–7) se siguió y adaptó para este README; revisa los archivos PDF insertados en el repositorio para ver capturas y notas del instructor.  
-
 ---
 
 ## Fecha de ejecución y entrega

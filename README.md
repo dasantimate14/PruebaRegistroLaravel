@@ -191,8 +191,6 @@ Visita `http://127.0.0.1:8000` y prueba las rutas de autenticación (Login / Reg
 mysqldump -u root -p bd_password > database_backups/backup_login_lab.sql
 ```
 
-**Nota:** Guarda `database_backups/backup_login_lab.sql` en el repo (no subir credenciales reales).
-
 ---
 
 ## Compilación de assets / Frontend (Vite / npm)

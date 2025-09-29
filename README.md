@@ -40,6 +40,11 @@ Este repositorio contiene la implementación del módulo de **autenticación (lo
 ## Requisitos previos
 
 Antes de ejecutar el proyecto asegúrate de tener instalado/configurado:
+[![PHP](https://img.shields.io/badge/PHP-8.0+-8892BF?logo=php)()
+[![Laravel](https://img.shields.io/badge/Laravel-8+-FF2D20?logo=laravel)]()
+[![Composer](https://img.shields.io/badge/Composer-2+-000000?logo=composer)]()
+[![Node.js](https://img.shields.io/badge/Node.js-22.19.0-339933?logo=node.js)]()
+[![MySQL](https://img.shields.io/badge/MySQL-5.7+/4479A1?logo=mysql)]()
 
 * PHP `8.0` o superior.
 * Composer (última versión estable).
@@ -50,17 +55,6 @@ Antes de ejecutar el proyecto asegúrate de tener instalado/configurado:
 * Base de datos: **MySQL** o **MariaDB** en ejecución.
 * Editor de código: **Visual Studio Code** (recomendado).
 * Laravel installer o crear proyecto con `composer create-project` o `laravel new`.
-
-Iconos por tecnología (badges para README):
-
-```
-[![PHP](https://img.shields.io/badge/PHP-8.0+-8892BF?logo=php)]()
-[![Laravel](https://img.shields.io/badge/Laravel-8+-FF2D20?logo=laravel)]()
-[![Composer](https://img.shields.io/badge/Composer-2+-000000?logo=composer)]()
-[![Node.js](https://img.shields.io/badge/Node.js-22.19.0-339933?logo=node.js)]()
-[![MySQL](https://img.shields.io/badge/MySQL-5.7+/4479A1?logo=mysql)]()
-```
-
 ---
 
 ## Estructura MVC (breve explicación)

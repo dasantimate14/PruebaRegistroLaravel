@@ -267,7 +267,7 @@ php artisan migrate
 ## Fecha de ejecución y entrega
 
 * **Fecha de ejecución del laboratorio:** `2025-09-27`.
-* **Fecha límite de entrega (instructor):** `2025-09-29`.
+* **Fecha límite de entrega:** `2025-09-29`.
 
 ---
 
@@ -302,7 +302,7 @@ composer run dev  # solo si el script dev está definido
 
 Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnológica de Panamá:
 
-* **Nombre:** Diego Santimateo
+* **Nombre:** Diego Santimateo 9-764-2382
 * **Correo:** diego.santimateo@utp.ac.pa
 * **Curso:** Ingeniería Web
 * **Instructor del Laboratorio:** Ing. Irina Fong

@@ -178,6 +178,8 @@ Visita `http://127.0.0.1:8000` y prueba las rutas de autenticación (Login / Reg
 
 ## Base de datos y migraciones
 
+* Base de Datos creada:  `pruebaregistrolaravel`.
+* Motor de Base de Datos:  `MySQL`.
 * Archivo de configuración de DB: `.env`.
 * Migraciones: `database/migrations/` — se ejecutan con `php artisan migrate`.
 * Recomendación: después de la migración genera un respaldo (backup) de la base de datos y súbelo al repositorio en la carpeta `/database_backups/`.
@@ -186,7 +188,7 @@ Visita `http://127.0.0.1:8000` y prueba las rutas de autenticación (Login / Reg
 
 ```bash
 # desde terminal (ajusta usuario/contraseña y nombre de DB)
-mysqldump -u root -p login_lab_db > database_backups/backup_login_lab.sql
+mysqldump -u root > database_backups/backup_login_lab.sql
 ```
 
 **Nota:** Guarda `database_backups/backup_login_lab.sql` en el repo (no subir credenciales reales).

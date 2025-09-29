@@ -213,7 +213,8 @@ php artisan config:cache
 
 Incluye en el repositorio las siguientes rutas/archivos (se muestran como ejemplo; debes agregarlos):
 
-* `/screenshots/login_home.png` — **Captura** de la página inicial del login.
+* `<img width="1185" height="587" alt="registro 1" src="https://github.com/user-attachments/assets/5601a894-7028-4a63-bfab-d8d8f7ed1abc" />
+` — **Captura** de la página inicial del login.
 * `/screenshots/registro_exitoso.png` — **Captura** del registro exitoso de un usuario.
 * `database_backups/pruebaregistrolaravel_backup.sql` — **Backup** de la base de datos creada.
 * `README.md` — este archivo.

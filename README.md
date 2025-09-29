@@ -188,7 +188,7 @@ Visita `http://127.0.0.1:8000` y prueba las rutas de autenticación (Login / Reg
 
 ```bash
 # desde terminal (ajusta usuario/contraseña y nombre de DB)
-mysqldump -u root > database_backups/backup_login_lab.sql
+mysqldump -u root -p bd_password > database_backups/backup_login_lab.sql
 ```
 
 **Nota:** Guarda `database_backups/backup_login_lab.sql` en el repo (no subir credenciales reales).

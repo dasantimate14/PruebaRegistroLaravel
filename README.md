@@ -220,7 +220,7 @@ Incluye en el repositorio las siguientes rutas/archivos (se muestran como ejempl
 
 <h3 align="center">Registro Exitoso</h3>
 <p align="center">
-  <img src="/screenshots/registro_exitoso.png" alt="Registro Exitoso" width="600"/>
+  <img src="/screenshots/inicio_sesion.jpg" alt="Registro Exitoso" width="600"/>
 </p>
 * `database_backups/pruebaregistrolaravel_backup.sql` — **Backup** de la base de datos creada.
 * `README.md` — este archivo.
